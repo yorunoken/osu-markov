@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-tokio = { version = "1.38.1", features = ["full"] }
+tokio = { version = "1.38.2", features = ["full"] }
 rusqlite = { version = "0.32.0", features = ["bundled"] }
 rand = "0.8.5"
 dotenv = "0.15.0"
